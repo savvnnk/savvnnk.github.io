@@ -20,16 +20,6 @@ button:hover{
     display: none; 
     margin-top: 20px;
 }
-@media (max-width: 768px) {
-    #GifContainer {
-        flex-direction: column; 
-        align-items: center;
-    }
-
-    #GifContainer img {
-        max-width: 90%; 
-    }
-}
 #gif{
     width: 270px;
     position: absolute;
